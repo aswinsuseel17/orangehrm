@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-23T17:29:46 IST" name="Default Suite" finished-at="2024-07-23T17:30:41 IST" duration-ms="55355">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T17:29:46 IST" name="OrangeHRMFrameWork" finished-at="2024-07-23T17:30:41 IST" duration-ms="55355">
+      <class name="com.automation.test.LoginTest">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:com.automation.test.LoginTest@73e22a3d]" started-at="2024-07-23T17:29:46 IST" name="setUp" finished-at="2024-07-23T17:30:31 IST" duration-ms="45260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1317b708]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserCanLoginWithValidCredentials()[pri:0, instance:com.automation.test.LoginTest@73e22a3d]" started-at="2024-07-23T17:30:31 IST" name="verifyUserCanLoginWithValidCredentials" finished-at="2024-07-23T17:30:41 IST" duration-ms="9208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automation.test.LoginTest@73e22a3d]" started-at="2024-07-23T17:30:41 IST" name="tearDown" finished-at="2024-07-23T17:30:41 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.test.LoginTest -->
+    </test> <!-- OrangeHRMFrameWork -->
+  </suite> <!-- Default Suite -->
+</testng-results>
